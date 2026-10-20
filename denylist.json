@@ -1,0 +1,12 @@
+{
+  "patterns": [
+    "rm -rf /",
+    "mkfs",
+    "dd if=",
+    ":(){ :|:& };:",
+    "shutdown",
+    "reboot",
+    "halt",
+    "init 0"
+  ]
+}
